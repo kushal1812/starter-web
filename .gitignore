@@ -1,2 +1,7 @@
 .DS_Store
 log
+*.orig
+simple_BACKUP_12963.html
+simple_BASE_12963.html
+simple_LOCAL_12963.html
+simple_REMOTE_12963.html
