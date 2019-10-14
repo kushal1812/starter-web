@@ -3,6 +3,7 @@
 	how to use Git and Github Together
 ##Introduction
 	This is example
+	This is sample working directory ghfgh
 ##Purpose
 	Provide simpel 
 ##Deployment
