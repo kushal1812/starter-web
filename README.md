@@ -9,3 +9,6 @@
 ##Deployment
 	After project we can deploy
 ##How To Contribute
+
+##Copyright
+git training
