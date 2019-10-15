@@ -1,6 +1,6 @@
 #Starter Web Project
 	This is simple website project for showeing
-	how to use Git and Github Together . Adding one more line
+	how to use Git and Github Together . Adding one more line.Adding for Rebase
 ##Introduction
 	This is example
 	This is sample working directory ghfgh
